@@ -4,3 +4,5 @@ This repository contains my HTML and CSS practice projects while learning web de
 -Shapes Game
 -Built while following a tutorial
 -Purpose: Practice HTML structure and CSS Styling.
+# Project 2
+-Barbie Cards
